@@ -15,19 +15,6 @@
 
 ---
 
-## Projects
-
-<a href="https://github.com/tryxplts/osint-panel">
-  <img src="https://img.shields.io/badge/osint--panel-6E56CF?style=for-the-badge" alt="osint-panel" />
-</a>
-
-**osint-panel** &mdash; terminal OSINT dashboard. Maigret-backed username sweeps with
-structured evidence extraction instead of raw JSON, full-name web search, and
-domain/IP infrastructure inspection (DNS records, RDAP, ASN, TLS, HTTP).
-Runs from a plain CMD-style interface. Python + Rich, MIT.
-
----
-
 ## Languages & Technologies
 
 <p>
