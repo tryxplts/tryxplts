@@ -5,8 +5,8 @@
 # spydir
 
 <p>
-  <a href="https://spydirzz.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-spydirzz.netlify.app-6E56CF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://tryxplts.github.io/">
+    <img src="https://img.shields.io/badge/Website-tryxplts.github.io-6E56CF?style=flat-square&logo=github&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/tryxplts?tab=repositories"><img src="https://img.shields.io/badge/Repos-2B2B2B?style=flat-square&logo=github" alt="Repos" /></a>
   <a href="https://github.com/tryxplts?tab=followers"><img src="https://img.shields.io/badge/Followers-6E56CF?style=flat-square&logo=github" alt="Followers" /></a>
